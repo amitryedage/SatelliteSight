@@ -8,12 +8,7 @@ This project is a web-based application that classifies satellite images into la
 - Uses a trained CNN (ResNet18 or EfficientNet) for high-accuracy classification.
 - Displays results with clearly labeled land types and colors.
 
-## 🧠 Model Details
 
-- **Architecture**: ResNet18 / EfficientNet-B0
-- **Dataset**: EuroSAT (RGB) or BigEarthNet (multi-label)
-- **Input Size**: 224x224 pixels
-- **Output**: Multi-label land type predictions with analysis
 
 ## 🖼️ Land Cover Classes
 
