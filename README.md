@@ -7,8 +7,6 @@ This project is a web-based application that classifies satellite images into la
 - Upload a satellite image and detect dominant land cover types (multi-label).
 - Uses a trained CNN (ResNet18 or EfficientNet) for high-accuracy classification.
 - Displays results with clearly labeled land types and colors.
-- Generates a basic environmental report with bar chart insights.
-- Streamlit-based UI for easy and interactive use.
 
 ## 🧠 Model Details
 
@@ -31,17 +29,6 @@ Example categories used in EuroSAT:
 - Pasture
 - HerbaceousVegetation
 
-## 📊 Environmental Report
 
-After image classification, the app generates:
-- Bar chart of land types detected.
-- Short description of potential environmental impact (static).
 
-## 🧪 How to Run
 
-### 🔧 Requirements
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
