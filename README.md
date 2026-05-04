@@ -10,19 +10,6 @@ This project is a web-based application that classifies satellite images into la
 
 
 
-## 🖼️ Land Cover Classes
-
-Example categories used in EuroSAT:
-- AnnualCrop
-- Forest
-- Residential
-- Industrial
-- SeaLake
-- Highway
-- River
-- PermanentCrop
-- Pasture
-- HerbaceousVegetation
 
 
 
