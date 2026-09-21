@@ -2,12 +2,6 @@
 
 This project is a web-based application that classifies satellite images into land cover categories and generates a simple environmental impact report. It uses deep learning and satellite image datasets like **EuroSAT** or **BigEarthNet** to recognize land types such as industrial, residential, forest, etc.
 
-## 🚀 Features
-
-- Upload a satellite image and detect dominant land cover types (multi-label).
-- Uses a trained CNN (ResNet18 or EfficientNet) for high-accuracy classification.
-- Displays results with clearly labeled land types and colors.
-
 
 
 
