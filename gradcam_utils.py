@@ -4,8 +4,10 @@ from torchvision import models
 from PIL import Image
 import numpy as np
 import cv2
+import pandas as pd 
+import numpy as np
 
-class GradCAM:
+class GradCAM: 
     def __init__(self, model, target_layer):
         self.model = model
         self.model.eval()
